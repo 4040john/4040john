@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Johan`s%20Github&fontSize=55&fontAlignY=34&desc=Mobile%20App%20Developer&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Yohan`s%20Github&fontSize=55&fontAlignY=34&desc=Mobile%20App%20Developer&descAlignY=55" />
 </div>
 
 <!--내용 부분-->
